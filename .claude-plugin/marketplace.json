@@ -1,0 +1,18 @@
+{
+  "name": "shaxzod-skills",
+  "owner": {
+    "name": "Shaxzod",
+    "url": "https://github.com/shaxzodeshonov"
+  },
+  "plugins": [
+    {
+      "name": "hcd",
+      "source": "./plugins/hcd",
+      "description": "Human-centered design pipeline: research the user, frame the problem, model the interaction, then build and evaluate against usability heuristics.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Shaxzod"
+      }
+    }
+  ]
+}

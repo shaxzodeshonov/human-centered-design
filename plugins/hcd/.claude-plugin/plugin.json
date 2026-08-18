@@ -1,0 +1,22 @@
+{
+  "name": "hcd",
+  "displayName": "Human-Centered Design",
+  "version": "1.0.0",
+  "description": "Design software the way a UX practitioner would, before and while coding it. Adds the human-centered-design skill: a four-phase Double Diamond pipeline covering user research, problem framing, personas and journey maps, ideation and TRIZ contradiction resolution, interaction frameworks, and heuristic evaluation.",
+  "author": {
+    "name": "Shaxzod"
+  },
+  "homepage": "https://github.com/shaxzodeshonov/human-centered-design",
+  "repository": "https://github.com/shaxzodeshonov/human-centered-design",
+  "license": "MIT",
+  "keywords": [
+    "ux",
+    "design",
+    "usability",
+    "human-centered-design",
+    "personas",
+    "heuristic-evaluation",
+    "triz",
+    "product-design"
+  ]
+}
